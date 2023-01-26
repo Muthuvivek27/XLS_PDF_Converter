@@ -14,6 +14,8 @@ import os, glob
 from pathlib import Path
 global Srcfdr
 
+def testest():
+    print("test")
 
 def PDF_CONVERT(Srcfdr):
     global pgno
